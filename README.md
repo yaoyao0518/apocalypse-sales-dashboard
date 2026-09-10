@@ -38,3 +38,14 @@ Interactive Power BI dashboard analyzing survival product sales across four prep
 - Tailor product recommendations by customer segment.
 - Investigate the March sales decline to determine whether it is seasonal or data-related.
 - Review pricing or cost structure for low-margin products such as Duct Tape.
+
+## Repository Structure
+apocalypse-sales-dashboard/
+├── README.md
+├── sales_dashboard.pbix
+├── sales_data.xlsx
+├── screenshots/
+│   └── dashboard.png
+└── docs/
+    ├── analysis.md
+    └── data-dictionary.md
