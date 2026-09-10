@@ -1,5 +1,7 @@
 # Analysis: Apocalypse Sales Dashboard
 
+<img width="1402" height="787" alt="Dashboard" src="dashboard.png" />
+
 ## 1. Business Problem
 The dataset simulates sales for four prepper stores selling survival products. The goal is to understand:
 - Which products sell best
